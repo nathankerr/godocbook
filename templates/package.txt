@@ -1,0 +1,4 @@
+[with .PDoc]# [.ImportPath]
+
+[comment_text .Doc "" "\t"]
+[end]
