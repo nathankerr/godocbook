@@ -58,6 +58,11 @@
 			"Rev": "e46ee22bbc5ae999be35cdec46d806c6172e4501"
 		},
 		{
+			"ImportPath": "code.google.com/p/go.tools/go/vcs",
+			"Comment": "null-995",
+			"Rev": "e46ee22bbc5ae999be35cdec46d806c6172e4501"
+		},
+		{
 			"ImportPath": "code.google.com/p/go.tools/godoc",
 			"Comment": "null-995",
 			"Rev": "e46ee22bbc5ae999be35cdec46d806c6172e4501"
@@ -76,9 +81,17 @@
 			"Rev": "c5dac536301992c0371c6115d998fb62944bfad3"
 		},
 		{
+			"ImportPath": "github.com/kr/fs",
+			"Rev": "2788f0dbd16903de03cb8186e5c7d97b69ad387b"
+		},
+		{
 			"ImportPath": "github.com/russross/blackfriday",
 			"Comment": "v1.2",
 			"Rev": "2e7d690972283d45aadc7a5ea304841e26529433"
+		},
+		{
+			"ImportPath": "github.com/tools/godep",
+			"Rev": "b23e20235ff25d0fb7ae6a6b15793fe9f1e40b85"
 		}
 	]
 }
