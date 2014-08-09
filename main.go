@@ -2,18 +2,18 @@ package main
 
 import (
 	"bytes"
-	"github.com/GeertJohan/go.rice"
-	"github.com/docopt/docopt-go"
-	"github.com/russross/blackfriday"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/GeertJohan/go.rice"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/docopt/docopt-go"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/russross/blackfriday"
 	"io"
 	"log"
 	"os"
 	"runtime"
 	"text/template"
 
-	"code.google.com/p/go.tools/godoc"
-	"code.google.com/p/go.tools/godoc/vfs"
-	"code.google.com/p/go.tools/godoc/vfs/gatefs"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/code.google.com/p/go.tools/godoc"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/code.google.com/p/go.tools/godoc/vfs"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/code.google.com/p/go.tools/godoc/vfs/gatefs"
 )
 
 func main() {

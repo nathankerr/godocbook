@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GeertJohan/go.rice/embedded"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/GeertJohan/go.rice/embedded"
 	"time"
 )
 
