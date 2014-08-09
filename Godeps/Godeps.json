@@ -68,8 +68,20 @@
 			"Rev": "e46ee22bbc5ae999be35cdec46d806c6172e4501"
 		},
 		{
+			"ImportPath": "github.com/GeertJohan/go.incremental",
+			"Rev": "92fd0ce4a694213e8b3dfd2d39b16e51d26d0fbf"
+		},
+		{
 			"ImportPath": "github.com/GeertJohan/go.rice",
 			"Rev": "a4d0b5624c673fef4b517f350272136ced6bb5b1"
+		},
+		{
+			"ImportPath": "github.com/akavel/rsrc/binutil",
+			"Rev": "370d163b6fcb4dc5016a8dc40cbd9861828b2e9e"
+		},
+		{
+			"ImportPath": "github.com/akavel/rsrc/coff",
+			"Rev": "370d163b6fcb4dc5016a8dc40cbd9861828b2e9e"
 		},
 		{
 			"ImportPath": "github.com/daaku/go.zipexe",
@@ -79,6 +91,11 @@
 			"ImportPath": "github.com/docopt/docopt-go",
 			"Comment": "0.6.1-1-gc5dac53",
 			"Rev": "c5dac536301992c0371c6115d998fb62944bfad3"
+		},
+		{
+			"ImportPath": "github.com/jessevdk/go-flags",
+			"Comment": "v1-202-g4f0ca1e",
+			"Rev": "4f0ca1e2d1349e9662b633ea1b8b8d48e8a32533"
 		},
 		{
 			"ImportPath": "github.com/kr/fs",

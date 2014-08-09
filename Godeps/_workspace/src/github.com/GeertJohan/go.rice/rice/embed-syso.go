@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"fmt"
 	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/GeertJohan/go.rice/embedded"
-	"github.com/akavel/rsrc/coff"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/akavel/rsrc/coff"
 	"go/build"
 	"io"
 	"io/ioutil"

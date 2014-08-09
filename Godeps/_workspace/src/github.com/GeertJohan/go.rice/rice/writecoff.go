@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/akavel/rsrc/binutil"
-	"github.com/akavel/rsrc/coff"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/akavel/rsrc/binutil"
+	"github.com/nathankerr/godocbook/Godeps/_workspace/src/github.com/akavel/rsrc/coff"
 	"os"
 	"reflect"
 )
